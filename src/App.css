@@ -31,3 +31,25 @@
     transform: rotate(360deg);
   }
 }
+
+.chat-container {
+  border: 2px solid black;
+}
+
+.form-controll {
+  border: 1px solid black;
+}
+
+.chat-message {
+  word-break: break-all;
+}
+.messages {
+  height: 400px;
+  overflow: scroll;
+}
+
+.message {
+  background-color: #f1f0f0;
+  margin: 20px;
+  border-radius: 20px;
+}
